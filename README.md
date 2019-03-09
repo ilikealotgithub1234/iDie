@@ -1,4 +1,4 @@
 # iDie
-they die
-we die
-together
+- they die
+- we die
+- together
